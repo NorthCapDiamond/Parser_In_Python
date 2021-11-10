@@ -1,0 +1,27 @@
+<Weekday>
+	<Name of the day>
+		Tuesday
+	<Name of the day/>
+<Weekday/>
+<Discrete math consultation>
+	<Audience>
+		378
+	<Audience/>
+	<Time>
+		13:30 - 16:30
+	<Time/>
+	<Teacher>
+		Sofia Zeldina
+	<Teacher/>
+<Discrete math consultation/>
+<Descrete math lecture>
+	<Audience>
+		466
+	<Audience/>
+	<Time>
+		17:00-19:30
+	<Time/>
+	<Teacher>
+		Pastor/Karpov
+	<Teacher/>
+<Descrete math lecture/>

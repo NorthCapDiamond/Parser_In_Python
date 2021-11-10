@@ -1,0 +1,15 @@
+{
+  "Weekday":{
+    "Name of the day":"Tuesday"
+  },
+  "Discrete math consultation":{
+    "Audience":"378",
+    "Time":"13:30 - 16:30",
+    "Teacher":"Sofia Zeldina"
+  },
+  "Descrete math lecture":{
+    "Audience":"466",
+    "Time":"17:00-19:30",
+    "Teacher":"Pastor/Karpov"
+  }
+}
